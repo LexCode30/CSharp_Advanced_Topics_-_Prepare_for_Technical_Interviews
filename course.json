@@ -1,0 +1,149 @@
+{
+  "name": "CSharp Advanced Topics - Prepare for Technical Interviews",
+  "slug": "CSharp_Advanced_Topics_-_Prepare_for_Technical_Interviews",
+  "url": "https://LexCode30.github.io/CSharp_Advanced_Topics_-_Prepare_for_Technical_Interviews/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "About this Course",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "About this Course",
+          "id": "1JCyzYkaWFM5ZFUu45O9SqoP7e2TAQAiG",
+          "anchor": "v-1JCyzYkaWFM5ZFUu45O9SqoP7e2TAQAiG",
+          "href": "s1.html#v-1JCyzYkaWFM5ZFUu45O9SqoP7e2TAQAiG"
+        },
+        {
+          "number": 2,
+          "title": "Who is Your Instructor",
+          "id": "1XBmKoFtTvTk__6fJzjpME6pG72DiC1RX",
+          "anchor": "v-1XBmKoFtTvTk__6fJzjpME6pG72DiC1RX",
+          "href": "s1.html#v-1XBmKoFtTvTk__6fJzjpME6pG72DiC1RX"
+        },
+        {
+          "number": 3,
+          "title": "How This Course is Organised",
+          "id": "1YU5RJ7osleiAx1VOrG3qPeg946QE-5B_",
+          "anchor": "v-1YU5RJ7osleiAx1VOrG3qPeg946QE-5B_",
+          "href": "s1.html#v-1YU5RJ7osleiAx1VOrG3qPeg946QE-5B_"
+        },
+        {
+          "number": 4,
+          "title": "Asking Questions",
+          "id": "16N35DDB3eKmDQvjDRmwEeOMZ3d3NQHFw",
+          "anchor": "v-16N35DDB3eKmDQvjDRmwEeOMZ3d3NQHFw",
+          "href": "s1.html#v-16N35DDB3eKmDQvjDRmwEeOMZ3d3NQHFw"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "C# Advanced Topics",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Generics",
+          "id": "14mC3KUwNljxF978GiPthr5GaBX-tdRjf",
+          "anchor": "v-14mC3KUwNljxF978GiPthr5GaBX-tdRjf",
+          "href": "s2.html#v-14mC3KUwNljxF978GiPthr5GaBX-tdRjf"
+        },
+        {
+          "number": 2,
+          "title": "Delegates",
+          "id": "1gf6WLwFuC8AXwqAbqVJmc1s9ZgqJbJFd",
+          "anchor": "v-1gf6WLwFuC8AXwqAbqVJmc1s9ZgqJbJFd",
+          "href": "s2.html#v-1gf6WLwFuC8AXwqAbqVJmc1s9ZgqJbJFd"
+        },
+        {
+          "number": 3,
+          "title": "Lambda Expressions",
+          "id": "1gvTlZhTl5q_NnWV_vVOEh1tL5x-9_0JB",
+          "anchor": "v-1gvTlZhTl5q_NnWV_vVOEh1tL5x-9_0JB",
+          "href": "s2.html#v-1gvTlZhTl5q_NnWV_vVOEh1tL5x-9_0JB"
+        },
+        {
+          "number": 4,
+          "title": "Events",
+          "id": "1RULfeaUoSJ0bkjWN9xP3F66-ZKxgpp5t",
+          "anchor": "v-1RULfeaUoSJ0bkjWN9xP3F66-ZKxgpp5t",
+          "href": "s2.html#v-1RULfeaUoSJ0bkjWN9xP3F66-ZKxgpp5t"
+        },
+        {
+          "number": 5,
+          "title": "Extension Methods",
+          "id": "1zAbKMW45YpMCbdC9k5M8veWtNfUqWFLn",
+          "anchor": "v-1zAbKMW45YpMCbdC9k5M8veWtNfUqWFLn",
+          "href": "s2.html#v-1zAbKMW45YpMCbdC9k5M8veWtNfUqWFLn"
+        },
+        {
+          "number": 6,
+          "title": "LINQ",
+          "id": "1OUou38IhikGWFCjSY4RThh9-viAb4RxB",
+          "anchor": "v-1OUou38IhikGWFCjSY4RThh9-viAb4RxB",
+          "href": "s2.html#v-1OUou38IhikGWFCjSY4RThh9-viAb4RxB"
+        },
+        {
+          "number": 7,
+          "title": "Nullable Types",
+          "id": "1PCcQhBe9nMNZe37o4P1f0szo_Fz2zUKC",
+          "anchor": "v-1PCcQhBe9nMNZe37o4P1f0szo_Fz2zUKC",
+          "href": "s2.html#v-1PCcQhBe9nMNZe37o4P1f0szo_Fz2zUKC"
+        },
+        {
+          "number": 8,
+          "title": "Dynamic",
+          "id": "1ZC8dQcyiFxIE1F7RmcNeiTzG8ZUJX9Rl",
+          "anchor": "v-1ZC8dQcyiFxIE1F7RmcNeiTzG8ZUJX9Rl",
+          "href": "s2.html#v-1ZC8dQcyiFxIE1F7RmcNeiTzG8ZUJX9Rl"
+        },
+        {
+          "number": 9,
+          "title": "Exception Handling",
+          "id": "1-ob-exlyyJTDsvZxFJvdISMdOcURa0Yx",
+          "anchor": "v-1-ob-exlyyJTDsvZxFJvdISMdOcURa0Yx",
+          "href": "s2.html#v-1-ob-exlyyJTDsvZxFJvdISMdOcURa0Yx"
+        },
+        {
+          "number": 10,
+          "title": "Asynchronous Programming with Async Await",
+          "id": "1vfX_1VyOH532I6dpTMMQl6AAZwEq0sco",
+          "anchor": "v-1vfX_1VyOH532I6dpTMMQl6AAZwEq0sco",
+          "href": "s2.html#v-1vfX_1VyOH532I6dpTMMQl6AAZwEq0sco"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Whats Next",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What You Should Learn after Advanced C",
+          "id": "1vmhlB6RCg_L6BN1l_2usMoNPKVfOJM7H",
+          "anchor": "v-1vmhlB6RCg_L6BN1l_2usMoNPKVfOJM7H",
+          "href": "s3.html#v-1vmhlB6RCg_L6BN1l_2usMoNPKVfOJM7H"
+        },
+        {
+          "number": 2,
+          "title": "Additional Resources to Make You a Better Developer",
+          "id": "1aMRlIqMb6hK1uaKYwVdlbsD-X_zUXrPA",
+          "anchor": "v-1aMRlIqMb6hK1uaKYwVdlbsD-X_zUXrPA",
+          "href": "s3.html#v-1aMRlIqMb6hK1uaKYwVdlbsD-X_zUXrPA"
+        },
+        {
+          "number": 3,
+          "title": "Final Words",
+          "id": "153vZOQwiv17G7d0LV_rRPQYI4pcy7jcY",
+          "anchor": "v-153vZOQwiv17G7d0LV_rRPQYI4pcy7jcY",
+          "href": "s3.html#v-153vZOQwiv17G7d0LV_rRPQYI4pcy7jcY"
+        }
+      ]
+    }
+  ]
+}

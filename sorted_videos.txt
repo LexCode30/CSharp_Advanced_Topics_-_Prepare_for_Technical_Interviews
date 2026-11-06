@@ -1,0 +1,24 @@
+# CSharp Advanced Topics - Prepare for Technical Interviews
+
+1. About this Course  [s1.html]
+    001. About this Course  ->  https://drive.google.com/file/d/1JCyzYkaWFM5ZFUu45O9SqoP7e2TAQAiG/preview
+    002. Who is Your Instructor  ->  https://drive.google.com/file/d/1XBmKoFtTvTk__6fJzjpME6pG72DiC1RX/preview
+    003. How This Course is Organised  ->  https://drive.google.com/file/d/1YU5RJ7osleiAx1VOrG3qPeg946QE-5B_/preview
+    004. Asking Questions  ->  https://drive.google.com/file/d/16N35DDB3eKmDQvjDRmwEeOMZ3d3NQHFw/preview
+
+2. C# Advanced Topics  [s2.html]
+    001. Generics  ->  https://drive.google.com/file/d/14mC3KUwNljxF978GiPthr5GaBX-tdRjf/preview
+    002. Delegates  ->  https://drive.google.com/file/d/1gf6WLwFuC8AXwqAbqVJmc1s9ZgqJbJFd/preview
+    003. Lambda Expressions  ->  https://drive.google.com/file/d/1gvTlZhTl5q_NnWV_vVOEh1tL5x-9_0JB/preview
+    004. Events  ->  https://drive.google.com/file/d/1RULfeaUoSJ0bkjWN9xP3F66-ZKxgpp5t/preview
+    005. Extension Methods  ->  https://drive.google.com/file/d/1zAbKMW45YpMCbdC9k5M8veWtNfUqWFLn/preview
+    006. LINQ  ->  https://drive.google.com/file/d/1OUou38IhikGWFCjSY4RThh9-viAb4RxB/preview
+    007. Nullable Types  ->  https://drive.google.com/file/d/1PCcQhBe9nMNZe37o4P1f0szo_Fz2zUKC/preview
+    008. Dynamic  ->  https://drive.google.com/file/d/1ZC8dQcyiFxIE1F7RmcNeiTzG8ZUJX9Rl/preview
+    009. Exception Handling  ->  https://drive.google.com/file/d/1-ob-exlyyJTDsvZxFJvdISMdOcURa0Yx/preview
+    010. Asynchronous Programming with Async Await  ->  https://drive.google.com/file/d/1vfX_1VyOH532I6dpTMMQl6AAZwEq0sco/preview
+
+3. Whats Next  [s3.html]
+    001. What You Should Learn after Advanced C  ->  https://drive.google.com/file/d/1vmhlB6RCg_L6BN1l_2usMoNPKVfOJM7H/preview
+    002. Additional Resources to Make You a Better Developer  ->  https://drive.google.com/file/d/1aMRlIqMb6hK1uaKYwVdlbsD-X_zUXrPA/preview
+    003. Final Words  ->  https://drive.google.com/file/d/153vZOQwiv17G7d0LV_rRPQYI4pcy7jcY/preview
